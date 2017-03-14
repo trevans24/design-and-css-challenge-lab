@@ -1,8 +1,8 @@
 /*
 Project Name: Blank Template
-Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Client: Relzxr
+Author: Troy Evans
+Developer @GA in DEN
 */
 
 
@@ -49,8 +49,7 @@ body {
      color: #000;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
-     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+     font-family: 'Open Sans', sans-serif;
       background-size: cover;
 }
 
@@ -68,7 +67,27 @@ body {
 }
 
 header {
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  margin: 0 auto;
+  background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+  height: 600px;
+  width: 1000px;
+}
 
+header h1 {
+  color: white;
+  font-weight: 800 white;
+  font-size: 24px;
+}
+
+header h2 {
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
 }
 
 footer {
