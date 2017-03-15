@@ -136,19 +136,19 @@ header h2 {
 .benefits-title {
   font-weight: 400;
   font-size: 20px;
-  padding: 10px 40px 10px 40px;
+  padding: 10px 40px 10px 50px;
 }
 
 .benefits-p {
   font-weight: 300;
   font-size: 13px;
-  padding: 0 0 10px 40px;
+  padding: 0 0 10px 50px;
 }
 
 ul {
-  padding-left: 90px;
-  width: 300px;
+  padding-left: 120px;
 }
+
 li {
   list-style-type: disc;
   font-weight: 300;
